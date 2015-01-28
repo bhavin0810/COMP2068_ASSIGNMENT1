@@ -65,6 +65,15 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\images\bed-room.jpg" />
+    <Content Include="assets\images\first-floor.jpg" />
+    <Content Include="assets\images\house.jpg" />
+    <Content Include="assets\images\kitchen.jpg" />
+    <Content Include="assets\images\lost.jpg" />
+    <Content Include="assets\images\main-room.jpg" />
+    <Content Include="assets\images\second-floor.jpg" />
+    <Content Include="assets\images\sports-room.jpg" />
+    <Content Include="assets\images\winner.jpg" />
     <Content Include="css\game.css" />
     <Content Include="css\reset.css" />
     <Content Include="index.html" />
@@ -78,7 +87,6 @@
   <ItemGroup>
     <Folder Include="assets\audio\" />
     <Folder Include="assets\fonts\" />
-    <Folder Include="assets\images\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
