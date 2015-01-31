@@ -1,4 +1,10 @@
-﻿body {
+﻿/*
+@File_Name : game.css
+@author : Bhavin Patel
+@Description: CSS File of the index page 
+@Version 1.0 Jan-29-2015 game.css added
+*/
+body {
     font-family: 'PT Sans', sans-serif;
     min-height: 740px;
 
